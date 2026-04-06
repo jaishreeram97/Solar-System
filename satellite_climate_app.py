@@ -1,10 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║   SATELLITE GROUND CONTROL + CLIMATE PREDICTION SYSTEM          ║
-║   Flask + SocketIO · Scikit-Learn · Real-time Telemetry         ║
-╚══════════════════════════════════════════════════════════════════╝
-"""
-
 import math, time, random, threading, json
 from datetime import datetime, timedelta
 import numpy as np

@@ -1,4 +1,4 @@
-# 🛰 Satellite Ground Control + Climate AI Observatory
+#  Satellite Ground Control + Climate AI Observatory
 
 ## Quick Start
 
